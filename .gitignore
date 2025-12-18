@@ -1,0 +1,47 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.out
+*.exe
+
+# Static and shared libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug / profiling files
+*.dSYM/
+*.pdata
+*.pdb
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Editor / IDE settings
+.vscode/
+*.code-workspace
+
+# Build directories
+build/
+cmake-build-*/
+
+# Temporary / backup files
+*~
+*.swp
+*.swo
+*.tmp
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office / document files
+*.pptx
+*.docx
+*.pdf
